@@ -19,7 +19,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-JQuery" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Rafa-yoda" src="https://github.com/LucasMachadoDev/LucasMachadoDev/blob/main/hi.gif">
+  <img align="right" alt="Lucas-gif" height="150" src="https://github.com/LucasMachadoDev/LucasMachadoDev/blob/main/hi.gif">
 </div>
   
   ##

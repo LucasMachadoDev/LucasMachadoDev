@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas G. Machado
 
 - 🔭 Hoje trabalho como Programador web Full-stack
-- 🌱 Estou aprendendo PHP, MySQL e Figma
+- 🌱 Estou aprendendo: MySql, NodeJS, TypeScript, React
 - 📫 Contate-me no e-mail: Lucas-gabrielm@outlook.com
 - 😄 Pronouns: Ele/Dele
 
